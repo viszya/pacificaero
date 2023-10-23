@@ -1,0 +1,13 @@
+.navbarcustom {
+    width: full;
+    display: flex;
+    flex-direction: row;
+}
+
+.navbarcustom2 {
+    
+}
+
+.titlenav {
+    min-width: 200px;
+}
